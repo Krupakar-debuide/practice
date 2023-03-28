@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: Krupakar-debuide/practice
 spec:
-  type: other
-  lifecycle: unknown
+  type: local-test
+  lifecycle: Live
   owner: Krupakar
+  system: Organisation
